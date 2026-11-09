@@ -1,0 +1,19 @@
+Copyright (c) 2026 Jeremy Marcillaud. All rights reserved.
+
+This software is provided to customers and evaluators of Private AI for
+installing and running the product on their own machines, under their
+agreement with the copyright holder.
+
+You may not copy, modify, redistribute, sublicense, sell, or reverse engineer
+this software, or use it to build a competing product, except as your
+agreement allows.
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and non-infringement. In no event shall the
+copyright holder be liable for any claim, damages or other liability arising
+from the use of this software.
+
+Third-party software that this software installs or downloads (for example
+k3s, Open WebUI, LiteLLM, Ollama, PostgreSQL and the language models) remains
+under its own licences and is not covered by this notice.
